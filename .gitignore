@@ -107,22 +107,3 @@ __pycache__/
 # Ignore bin and obj folders in all directories
 [Bb]in/
 [Oo]bj/
-
-# -------- Custom Rules to Include Only AdjustHighValueCardThreshold.dll --------
-
-# Unignore the bin directory of your project
-!TCGCardShopSimulator_Adjust_HighValueCardThreshold/bin/
-
-# Ignore everything in the bin directory
-TCGCardShopSimulator_Adjust_HighValueCardThreshold/bin/*
-
-# Unignore the Release directory
-!TCGCardShopSimulator_Adjust_HighValueCardThreshold/bin/Release/
-
-# Ignore everything in the Release directory
-TCGCardShopSimulator_Adjust_HighValueCardThreshold/bin/Release/*
-
-# Unignore the specific DLL file
-!TCGCardShopSimulator_Adjust_HighValueCardThreshold/bin/Release/AdjustHighValueCardThreshold.dll
-
-# -------------------------------------------------------------------------------
