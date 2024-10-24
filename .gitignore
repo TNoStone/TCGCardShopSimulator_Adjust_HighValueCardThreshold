@@ -107,3 +107,4 @@ __pycache__/
 # Ignore bin and obj folders in all directories
 [Bb]in/
 [Oo]bj/
+/TCGCardShopSimulator_Adjust_HighValueCardThreshold/Changelog for v1.1.0
